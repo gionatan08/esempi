@@ -2,3 +2,9 @@
 1745999571 source:d:\users\coppolag\desktop\portablegit\esempi\progetto\struct.cpp
 	<algorithm>
 
+1745999638 source:d:\users\coppolag\desktop\portablegit\esempi\progetto\main.cpp
+	<iostream>
+	"struct.h"
+
+1745999571 d:\users\coppolag\desktop\portablegit\esempi\progetto\struct.h
+

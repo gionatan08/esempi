@@ -11,3 +11,5 @@ void ordina(int v[], int dim){
 void nulla() {}
 
 void qualcosa() {}
+
+void qualcosaltro() {}
